@@ -18,6 +18,12 @@ submission/
 cfg/
 darknet
 .fuse*
+*.weights
+build/
+*.ipch
+*.so
+*.a
+*.bin
 
 # OS Generated #
 .DS_Store*
